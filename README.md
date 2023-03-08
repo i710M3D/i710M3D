@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm BADACHE Nazim</h1>
 <h3 align="center">A 3rd year Cs student at University Of Science And Technology Houari Boumediene (USTHB) and a passionate Full-Stack developer from Algeria</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP"<*>
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47fhsh0ghzplnnguj0ld8v0ldpo5ssyzluyfut0xm5&rid=giphy.gif&ct=g">
 
 
 - 🔭 I’m currently working on **a various projects**
