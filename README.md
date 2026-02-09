@@ -1,14 +1,14 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm BADACHE Nazim</h1>
-<h3 align="center">Master 1 computer vision student at University Of Science And Technology Houari Boumediene (USTHB) and a passionate Full-Stack developer from Algeria</h3>
+<h1 align="center">Hi 👋, I'm Nazim BADACHE</h1>
+<h3 align="center">Master 2 AI & computer vision student at University Sorbonne Paris Nord</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47fhsh0ghzplnnguj0ld8v0ldpo5ssyzluyfut0xm5&rid=giphy.gif&ct=g">
 
 
 - 🔭 I’m currently working on **a various projects**
 
-- 🌱 I’m currently learning **New web dev Technologies**
+- 🌱 I’m currently learning **New AI Technologies**
 
-- 📫 How to reach me **nazimbadache.sec3@gmail.com**
+- 📫 How to reach me **nazimbadache.pro@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/in/nazim-badache-a86216228](linkedin.com/in/nazim-badache-a86216228)
 
